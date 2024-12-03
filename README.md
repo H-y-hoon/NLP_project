@@ -5,11 +5,6 @@
 
 ### USE
 
-project/
-├── code_2/
-│   └── app.py
-├── data/
-│   ├── final_df.csv
-│   └── best_model.pt
+project/ ├── code_2/ │ └── app.py ├── data/ │ ├── final_df.csv │ └── best_model.pt
 
 ### streamlit run code_2/app.py
